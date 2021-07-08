@@ -1,7 +1,10 @@
+<<<<<<< .merge_file_a15988
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+=======
+>>>>>>> .merge_file_a13436
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -57,6 +60,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+*.aab
 *.unitypackage
 
 # Crashlytics generated file
@@ -68,7 +72,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+<<<<<<< .merge_file_a15988
 
 # Exceptions
 !*.dll
 !*.obj
+=======
+>>>>>>> .merge_file_a13436
